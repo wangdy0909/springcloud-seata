@@ -12,3 +12,6 @@ mysql 8+
 ```
 # 测试连接
 http://localhost:2001/order/createOrder?userId=1&productId=1&count=10&money=100
+
+# Nacos截图
+![Nacos服务列表](imgs/nacos.pong)

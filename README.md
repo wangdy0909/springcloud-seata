@@ -14,4 +14,4 @@ mysql 8+
 http://localhost:2001/order/createOrder?userId=1&productId=1&count=10&money=100
 
 # Nacos截图
-![Nacos服务列表](imgs/nacos.pong)
+![Nacos服务列表](https://github.com/wangdy0909/springcloud-seata/blob/master/imgs/nacos.png)

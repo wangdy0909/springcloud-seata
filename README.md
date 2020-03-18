@@ -5,8 +5,8 @@
 Springcloud
 Springboot 2.2.5.RELEASE
 openFeign 2.2.2.RELEASE
-nacos 1.1.4(注册中心)
-seata 1.1.0(最新版本)
+Springcloud alibaba Nacos 1.1.4(注册中心)
+Springcloud alibaba Seata 1.1.0(最新版本)
 mybatis-plus 3.1.1
 mysql 8+
 ```
